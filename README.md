@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi, I'm Yukun Zou. I am a Communication Systems Master student in KTH Royal Institute of Technology (Sweden). Before, I received my EE Bachelor's degree from Tongji University (China). Currently, I am open to master thesis student and cybersecurity engineer position. I am interested in Web security, IoT security and Penetration testing. I hope to be a cybersecurity engineer in the future.
+Hi, I'm Heng Kang, I'm current studying in KTH, my majpr is communication system. 
 
 ## 🌴 Languages and Tools
 
