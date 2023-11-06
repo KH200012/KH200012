@@ -10,8 +10,8 @@ Hi, I'm Heng Kang, I'm current studying in KTH, my major is communication system
 
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=SQLite&logoColor=white)
-![](https://img.shields.io/badge/Spring-00008C?style=for-the-badge&logo=Spring&logoColor=white)
-![](https://img.shields.io/badge/MyBatis-008F00?style=for-the-badge&logo=MyBatis&logoColor=white)
+![](https://img.shields.io/badge/Spring-008F00?style=for-the-badge&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/MyBatis-00008C?style=for-the-badge&logo=MyBatis&logoColor=white)
 
 
 
