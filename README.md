@@ -5,7 +5,7 @@ Hi, I'm Heng Kang, I'm current studying in KTH, my majpr is communication system
 ## 🌴 Languages and Tools
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -21,16 +21,12 @@ Hi, I'm Heng Kang, I'm current studying in KTH, my majpr is communication system
 
 ## ✔️ I'm currently learning
 
-- [Webassembly](https://webassembly.org/)
-- [Rust](https://www.rust-lang.org/)
-- [Ethical Hacking(Penetration Testing)](https://www.kth.se/student/kurser/kurs/EN2720?l=en)
+- Mircro Service
 
 ## 📫 Contact Me
 
-✉️ [Email](mailto:yukunzou@kth.se)
+✉️ [Email](mailto:hengkang@kth.se)
 
 
-## 💻 Work Stats
 
-[![Lance's github stats](https://github-readme-stats.vercel.app/api?username=yukun-zou&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
